@@ -1,4 +1,4 @@
-# COVID Deaths and Vaccinations Visualization Project
+# COVID Deaths and Vaccinations Visualization Project: [Tableau Dashboard](https://tabsoft.co/3QBRbuZ)
 
 This project focuses on exploring COVID data using SQL and creating a dashboard that visualizes COVID deaths and infection rates. The project involves two main tasks: separating COVID data into deaths and vaccinations, and using the data to create an interactive dashboard using Tableau.
 Exploring COVID data using SQL and creating a Covid deaths and infection rate dashboard.
